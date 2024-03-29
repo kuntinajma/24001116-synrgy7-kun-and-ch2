@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Challange 2</string>
+    <string name="cost_of_service">رسوم الخدمة</string>
+    <string name="how_was_the_service">كيف هي الخدمة؟</string>
+    <string name="amazing">ممتاز (20%)</string>
+    <string name="ok">موافق (15%)</string>
+    <string name="good">جيد (18%)</string>
+    <string name="round_up_tip">تقريب النصائح؟</string>
+    <string name="calculate">تقريبيا؟</string>
+    <string name="tip_amount">تقريبيا؟مبلغ النصيحة</string>
+</resources>

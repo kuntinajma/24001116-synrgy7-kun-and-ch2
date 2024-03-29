@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Challange 2</string>
+    <string name="cost_of_service">Biaya Layanan</string>
+    <string name="how_was_the_service">Bagaimana layanannya?</string>
+    <string name="amazing">Luar Biasa (20%)</string>
+    <string name="ok">OK (15%)</string>
+    <string name="good">Baik (18%)</string>
+    <string name="round_up_tip">Membulatkan tip?</string>
+    <string name="calculate">HITUNG</string>
+    <string name="tip_amount">Jumlah Tip</string>
+</resources>

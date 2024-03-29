@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/inter_semibold</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+    <style name="form">
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_marginTop">25dp</item>
+    </style>
+    <style name="radio">
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+    <style name="roundUp">
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/inter_semibold</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+    <style name="button">
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="backgroundTint">@color/purple</item>
+    </style>
+    <style name="amount">
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="creator">
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+</resources>
